@@ -11,3 +11,11 @@ Adidas aims to empower its decision-makers with data-driven insights, fostering 
 •	Informed pricing and margin strategies for improved profitability.
 
 •	Actionable recommendations for optimizing sales and profit across various dimension.
+## #Problem Statement:
+##KPI’s(key Point Indicators)
+
+1.Total Sales Analysis:
+       Understand the overall sales performance of Adidas over time.
+       
+
+
