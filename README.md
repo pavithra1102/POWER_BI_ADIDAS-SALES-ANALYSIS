@@ -42,6 +42,8 @@ Adidas aims to empower its decision-makers with data-driven insights, fostering 
  ## Dashboard:
 
  ![Image](https://github.com/user-attachments/assets/e100820b-8f85-44d2-8f05-eb24897395c1)
+ ## Final Conclusion:
+ Adidas is performing well overall, with strong products, profitable margins, and leading retail channels. The company should focus on expanding digital sales, strengthening underperforming regions, and leveraging seasonal trends to boost year-round performance.
  
 
 
