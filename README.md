@@ -42,6 +42,11 @@ Adidas aims to empower its decision-makers with data-driven insights, fostering 
  ## Dashboard:
 
  ![Image](https://github.com/user-attachments/assets/e100820b-8f85-44d2-8f05-eb24897395c1)
+ ## Process:
+1. Adidas Sales Analysis dashboard was done by using Power bi tool. 
+2. Using Power Query editor, Measures, data modeling, Dax function, etc. To create Visualization in Power bi.    
+3. Using Filter, Calculated, Parameters, etc. To prepare the Visualization in Power bi.
+
  ## Final Conclusion:
  Adidas is performing well overall, with strong products, profitable margins, and leading retail channels. The company should focus on expanding digital sales, strengthening underperforming regions, and leveraging seasonal trends to boost year-round performance.
  
