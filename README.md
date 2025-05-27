@@ -14,7 +14,7 @@ Adidas aims to empower its decision-makers with data-driven insights, fostering 
 ## Problem Statement:
 ## KPI’s(key Point Indicators)
 1.Total Sales Analysis:  
-     Understand the overall sales performance of Adidas over time.
+          Understand the overall sales performance of Adidas over time.
 
 
 
