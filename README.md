@@ -40,6 +40,8 @@ Adidas aims to empower its decision-makers with data-driven insights, fostering 
 5.Total Sales by Retailers (Bar Chart):
 	Visualize the contribution of different retailers to total sales using a bar chart.
  ## Dashboard:
+
+ ![Image](https://github.com/user-attachments/assets/e100820b-8f85-44d2-8f05-eb24897395c1)
  
 
 
